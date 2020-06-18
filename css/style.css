@@ -301,7 +301,7 @@ h1, h2, h3, h4, h5, h6, figure {
     width: 100%;
     position: relative;
     z-index: 2;
-    background-color: #806b06; }
+    /*background-color: #806b06; */}
     @media screen and (max-width: 768px) {
       .video-hero .display-t {
         height: 600px; } }
